@@ -1,6 +1,10 @@
 # Snake-Game
 🐍 Snake Game with Manaswini
+
+
 A classic Snake Game built with HTML, CSS, and JavaScript, featuring an improved UI and smooth gameplay.
+
+
 
 🚀 Features
 🎮 Classic Snake Mechanics – Move the snake using arrow keys to eat food and grow.
@@ -10,6 +14,8 @@ A classic Snake Game built with HTML, CSS, and JavaScript, featuring an improved
 🔄 Restart Functionality – Allows players to start a new game seamlessly.
 🖥️ Live Demo
 👉 Play the Game
+
+
 
 🛠️ Technologies Used
 HTML – For structuring the game layout.
